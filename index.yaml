@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2025-02-24T15:36:38.778815794+05:30"
+entries:
+  nike-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-02-24T15:46:01.141230186+05:30"
+    description: A Helm chart for Kubernetes
+    digest: d0bf695ba996a88260594ae7b58b1e26d7d8ab8ab5771c12095ae624f035358f
+    name: nike-app
+    type: application
+    urls:
+    - https://anuraghatole.github.io/Nike-App-Helm-Chart/nike-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-02-24T15:46:01.140420894+05:30"
